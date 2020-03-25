@@ -1,8 +1,8 @@
 title: 红色手推车
-description: "那么多东西依靠在一辆红色手推车 挂着晶莹闪亮的雨滴 旁边有几只白鸡"
+description: "一辆红色手推车 晶莹闪亮于雨水中 旁边有几只白鸡"
 author:
-  name: "Samsepi0l"
-  email: "不太想告诉你"
+  name: "samsepi0l"
+  email: "你不会想知道"
   url: "https://s4msepi0l.github.io/"
 
 baseurl: /
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "noway"
+owner : "samsepi0l"
 year : "2020"
